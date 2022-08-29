@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64.925" height="64.925" viewBox="0 0 64.925 64.925">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="64.925" height="64.925" transform="translate(0.376)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="s2" transform="translate(-0.376)" clip-path="url(#clip-path)">
+    <path id="Path_103" data-name="Path 103" d="M1.264,26.773a31.693,31.693,0,0,0,6.521,20.5l2.329-3.959A27.89,27.89,0,0,1,5.456,26.774Z" transform="translate(0.129 3.972)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_104" data-name="Path 104" d="M10.781,8.113a3.209,3.209,0,0,0-.932.7A30.576,30.576,0,0,0,1.465,26.746H5.658a28.89,28.89,0,0,1,7.22-14.907l.7-.7L10.782,8.112Z" transform="translate(0.162 1.204)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_105" data-name="Path 105" d="M29.833.406A31.827,31.827,0,0,0,11.2,7.393l3.028,3.028A27.983,27.983,0,0,1,29.832,4.6V.405Z" transform="translate(1.606 0.06)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_106" data-name="Path 106" d="M48.492,7.393A31.822,31.822,0,0,0,29.858.405V4.6a27.984,27.984,0,0,1,15.605,5.823Z" transform="translate(4.374 0.06)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_107" data-name="Path 107" d="M57.416,26.746A31.733,31.733,0,0,0,48.1,8.112L45.071,11.14a26.889,26.889,0,0,1,8.152,15.605h4.193Z" transform="translate(6.632 1.204)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_108" data-name="Path 108" d="M50.645,47.27a31.693,31.693,0,0,0,6.521-20.5H52.974A27.892,27.892,0,0,1,48.315,43.31Z" transform="translate(7.113 3.972)" fill="#f68000" fill-rule="evenodd"/>
+    <path id="Path_109" data-name="Path 109" d="M25.445,44.839c-3.494-2.1-5.432-6.608-2.795-9.782s20.73-21.2,20.73-21.2c-1.124,2.527-6.056,24.922-8.152,28.416A7.141,7.141,0,0,1,25.445,44.839Zm5.59-9.782a2.876,2.876,0,0,1-3.028,4.891,2.916,2.916,0,0,1-.931-3.96A2.726,2.726,0,0,1,31.035,35.057Z" transform="translate(3.123 2.057)" fill="#f68000" fill-rule="evenodd"/>
+  </g>
+</svg>
